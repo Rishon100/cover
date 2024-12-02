@@ -87,7 +87,7 @@ body {
         top: 140px; 
         left: 50%; 
         transform: translateX(-50%); 
-        font-size: 48px;
+        font-size: 40px;
         font-family: 'Creepster';
         color: white;
         text-shadow: 2px 2px 5px rgba(197, 152, 152, 0.7), 0 0 25px rgba(255, 0, 0, 0.7), 0 0 5px rgba(255, 0, 0, 0.7);
@@ -110,7 +110,7 @@ body {
 .design {
     position: absolute;
     bottom: 110px;
-    left: 170px;   
+    left: 550px;   
     font-size: 24px; 
     font-style: italic; 
     color:rgb(245, 247, 247); 
@@ -119,7 +119,7 @@ body {
 .small-picture {
     position: absolute;
     bottom: 110px; 
-    right: 150px;  
+    right: 550px;  
     width: 100px; 
     height: auto;
     border-radius: 5px; 
@@ -129,17 +129,18 @@ body {
 .edition {
     position: absolute;
     bottom: 160px;
-    left: 170px;   
+    left: 550px;   
     font-size: 34px; 
     font-style: italic; 
     color:greenyellow; 
     text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.7); 
 }
 
+
 ```
 
 ## OUTPUT:
-![alt text](myphoto.jpeg)
-![alt text](bookcover3.png)
+![alt text](<Screenshot 2024-12-02 223057.png>)
+
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
